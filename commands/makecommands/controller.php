@@ -5,7 +5,7 @@
 *@NameSpace: App\Controllers\NAMESPACE
 */
 
-namespace App\Controllers;
+namespace App\Controllers\NAMESPACE;
 
 class NAME 
 {

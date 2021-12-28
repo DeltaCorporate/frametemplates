@@ -2,7 +2,7 @@
 /*
 *@Author: Houmame LAZAR <houms937@gmail.com>
 *@Class: NAME
-*@NameSpace: NAMESPACE
+*@NameSpace: App\Controllers\NAMESPACE
 */
 
 namespace App\Controllers;

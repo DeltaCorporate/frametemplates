@@ -1,11 +1,9 @@
+<?php
 /*
 *@Author: Houmame LAZAR <houms937@gmail.com>
 *@Class: NAME
 *@NameSpace: Database\migrations;
 */
-
-<?php
-
 namespace Database\migrations;
 
 use Core\SqlBuilder;

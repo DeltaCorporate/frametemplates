@@ -17,6 +17,7 @@ class NAME extends Middleware
     public function run(Request $request, Session $session): bool
     {
         //TODO: code here the action
+        return true;
 
     }
 

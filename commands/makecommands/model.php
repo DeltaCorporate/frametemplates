@@ -35,4 +35,12 @@ class NAME extends Model
            // TODO: Put here the values to validate
        ];
     }
+    
+    public static function foreigns(): array
+    {
+        return [
+            //TODO : add foreigns
+            //"column"=>[class,"method"]
+        ];
+    }
 }
